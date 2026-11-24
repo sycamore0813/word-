@@ -1,0 +1,4 @@
+23级南师格式:
+  template: '[{seq}] {authors}. {title}[{type}]. {journal}, {year}, {volume}({issue}):
+    {pages}.'
+  authors: gbt
