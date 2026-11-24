@@ -17,6 +17,17 @@
 | 文献引用 | OpenAlex 检索真实论文 → 句末插上标 [n] → 自动补参考文献；支持 9 种体例与自定义模板；导出 RIS 供 EndNote |
 | 提取模板格式 | 从范文提取 22 个部分 / 40+ 样式的方案；提取后自动「重排模板并逐页比对」验收 |
 
+## 下载
+
+| 方式 | 适合谁 | 链接 |
+| --- | --- | --- |
+| **免安装版 exe（推荐）** | 不想装 Python | [Releases → v1.0.0](https://github.com/sycamore0813/word-/releases/latest) |
+| 源码 zip | 想看代码 / 自己改 | 仓库页 Code → Download ZIP |
+| git clone | 开发者 | `git clone https://github.com/sycamore0813/word-.git` |
+
+免安装版：下载 zip → 解压到 D 盘或桌面 → 双击 `Word格式排版助手.exe`。
+首次运行 Windows 可能提示「已保护你的电脑」，点「更多信息 → 仍要运行」。
+
 ## 快速开始
 
 ```bat
